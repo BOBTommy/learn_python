@@ -43,11 +43,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex26.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ex26.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex26.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5862069" vertical-offset="1021" max-vertical-offset="1485">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1021" max-vertical-offset="1485">
               <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex28.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex28.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6788793" vertical-offset="0" max-vertical-offset="464">
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -94,6 +104,7 @@
         <option value="$PROJECT_DIR$/ex25_2.py" />
         <option value="$PROJECT_DIR$/ex25.py" />
         <option value="$PROJECT_DIR$/ex26.py" />
+        <option value="$PROJECT_DIR$/ex28.py" />
       </list>
     </option>
   </component>
@@ -764,8 +775,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5862069" vertical-offset="1021" max-vertical-offset="1485">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1021" max-vertical-offset="1485">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex28.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6788793" vertical-offset="0" max-vertical-offset="464">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
           <folding />
         </state>
       </provider>
